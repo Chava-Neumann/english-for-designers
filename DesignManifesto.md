@@ -46,3 +46,7 @@ Flusser reminds us that design is playful—it's about making the world a little
 Prioritize yourself and your health above everything. Set boundaries and maintain your joy.  
 
 You cannot control everything that happens, but that doesn't mean it should take a toll on your health.
+
+---
+
+### [What happens if you don't follow the directions...](img/TheTalkAboutBurnout.pdf)
