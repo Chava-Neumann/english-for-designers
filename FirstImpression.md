@@ -4,8 +4,8 @@
 ---
 
 # About Me
-### I’m a multicultural graphic designer  with a passion for storytelling in all its forms. I’m a graphic designer and marketer fueled  by a love for storytelling. Specializing in visual communication, board game design, and event management. 
-### When I’m not designing, I’m illustrating whimsical worlds, cosplaying characters  from my favorite stories, mermaiding and princessing at events, or diving into epic Dungeons & Dragons campaigns. For me, creativity is a lifestyle—and I love turning  ideas into something magical!
+### I’m a multicultural graphic designer with a passion for storytelling in all its forms. I’m a graphic designer and marketer fueled by a love for storytelling. Specializing in visual communication, board game design, and event management. 
+### When I’m not designing, I’m illustrating whimsical worlds, cosplaying characters from my favorite stories, mermaiding and princessing at events, or diving into epic Dungeons & Dragons campaigns. For me, creativity is a lifestyle—and I love turning ideas into something magical!
 
 ---
 
