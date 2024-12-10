@@ -21,7 +21,7 @@
 
 # 01
 ## Card Game Aliance
-### A team-project underneath my leadership. Alliance is a strategic card game featuring 152 unique cards and a full narrative, drawing players into the captivating world of the Poker Kingdom.
+### A team-project underneath my leadership. Aliance is a strategic card game featuring 152 unique cards and a full narrative, drawing players into the captivating world of the Poker Kingdom.
 
 # 02
 ## VýuKKa 
