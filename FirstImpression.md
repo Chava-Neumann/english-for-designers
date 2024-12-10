@@ -21,7 +21,7 @@
 
 # 01
 ## Card Game Aliance
-### A team-project underneath my leadership. Alliance is a strategic card game featuring 152 unique cards  and a full narrative, drawing players into the captivating world of the Poker Kingdom.
+### A team-project underneath my leadership. Alliance is a strategic card game featuring 152 unique cards and a full narrative, drawing players into the captivating world of the Poker Kingdom.
 
 # 02
 ## VýuKKa 
@@ -29,8 +29,8 @@
 
 # 03
 ## Epravo.cz ReDesign
-### Epravo.cz magazine is a publication focused on law  and the lifestyle of lawyers.
-### The redesign of the magazine was a team project in which  we placed 3rd. Our work was recognized for the effective  use of color-coded chapter organization and a clean,  easy-to-read layout.
+### Epravo.cz magazine is a publication focused on law and the lifestyle of lawyers.
+### The redesign of the magazine was a team project in which we placed 3rd. Our work was recognized for the effective use of color-coded chapter organization and a clean, easy-to-read layout.
 
 ---
 
