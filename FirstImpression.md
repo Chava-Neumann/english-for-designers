@@ -1,4 +1,4 @@
-# Hi! I'm Chava Neumann. Graphic Designer Based in Czechia.
+# Hi! I'm Chava Neumann. Graphic Designer based in Czechia.
 ### I create designs that are as logical as they are creative. Adding a spark✧₊⁺ of fun (and a well-timed pun!) to all my works, ensuring every project leaves a forever lasting impression.
 
 ---
