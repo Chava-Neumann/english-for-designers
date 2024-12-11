@@ -19,15 +19,12 @@
 
 # My Projects
 
-# 01
 ## Card Game Aliance
-### A team-project underneath my leadership. Aliance is a strategic card game featuring 152 unique cards and a full narrative, drawing players into the captivating world of the Poker Kingdom.
+### A team-project underneath my leadership. Aliance is a strategic card game featuring 152 unique cards and a full narrative, drawing players into the captivating world of the Poker Kingdom. - add company collab - specify what you did - current development
 
-# 02
 ## VýuKKa 
-### VýuKKa is an individual theoretical project with the means of creating an educational platform meant to improve PSCC/VŠKK university information system website that not only provides notes from various subjects but also offers an interactive space where every student can simultaneously act as not just a student, but also a teacher and a collegue.
+### VýuKKa is an individual theoretical project with the means of creating an educational platform meant to improve PSCC/VŠKK university information system website that not only provides notes from various subjects but also offers an interactive space where every student can simultaneously act as not just a student, but also a teacher and a collegue. - coloooor - skills used
 
-# 03
 ## Epravo.cz ReDesign
 ### Epravo.cz magazine is a publication focused on law and the lifestyle of lawyers.
 ### The redesign of the magazine was a team project in which we placed 3rd. Our work was recognized for the effective use of color-coded chapter organization and a clean, easy-to-read layout.
