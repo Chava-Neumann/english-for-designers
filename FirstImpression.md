@@ -28,7 +28,7 @@
 ### The platform focuses on accessibility and adaptability, enabling both educators and students to customize features, such as using color coding for better organization. Through this project, I gained valuable skills in critical thinking, user experience design, workflow optimization, and software development.
 
 ## Epravo.cz ReDesign
-### Epravo.cz magazine is a publication focused on law and the lifestyle of lawyers.
+### Epravo.cz magazine is a publication focused on law and the lifestyle of lawyers. I took on the roles of lead typesetter and project presenter.
 ### The redesign of the magazine was a team project in which we placed 3rd. Our work was recognized for the effective use of color-coded chapter organization and a clean, easy-to-read layout.
 
 ---
