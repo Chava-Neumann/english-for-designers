@@ -20,7 +20,8 @@
 # My Projects
 
 ## Card Game Aliance
-### A team-project underneath my leadership. Aliance is a strategic card game featuring 152 unique cards and a full narrative, drawing players into the captivating world of the Poker Kingdom. - add company collab - specify what you did - current development
+### A team project where  I wore many hats as the "Jack of all trades" leader. My roles included character design, lore writing, rule finalization, and head of communication.  Aliance is a strategic card game featuring 152 unique cards and a full narrative, drawing players into the captivating world of the Poker Kingdom.
+### This project led to exciting collaborations with major Czech toy companies Albi and DinoToys, as well as the game shop Černý rytíř. It showcased my ability to combine creativity, strategy, and teamwork to deliver an engaging gaming experience. Along the way, I gained valuable insights into print production, game design, rule balancing, and effective communication. I also expanded my general know-how of the game industry.
 
 ## VýuKKa 
 ### VýuKKa is an individual theoretical project with the means of creating an educational platform meant to improve PSCC/VŠKK university information system website that not only provides notes from various subjects but also offers an interactive space where every student can simultaneously act as not just a student, but also a teacher and a collegue. - coloooor - skills used
