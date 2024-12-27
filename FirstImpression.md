@@ -24,7 +24,8 @@
 ### This project led to exciting collaborations with major Czech toy companies Albi and DinoToys, as well as the game shop Černý rytíř. It showcased my ability to combine creativity, strategy, and teamwork to deliver an engaging gaming experience. Along the way, I gained valuable insights into print production, game design, rule balancing, and effective communication. I also expanded my general know-how of the game industry.
 
 ## VýuKKa 
-### VýuKKa is an individual theoretical project with the means of creating an educational platform meant to improve PSCC/VŠKK university information system website that not only provides notes from various subjects but also offers an interactive space where every student can simultaneously act as not just a student, but also a teacher and a collegue. - coloooor - skills used
+### VýuKKa is an individual theoretical project with the means of creating an educational platform meant to improve PSCC/VŠKK university information system website that not only provides notes from various subjects but also offers an interactive space where every student can simultaneously act as not just a student, but also a teacher and a collegue.
+### The platform focuses on accessibility and adaptability, enabling both educators and students to customize features, such as using color coding for better organization. Through this project, I gained valuable skills in critical thinking, user experience design, workflow optimization, and software development.
 
 ## Epravo.cz ReDesign
 ### Epravo.cz magazine is a publication focused on law and the lifestyle of lawyers.
