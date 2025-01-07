@@ -4,7 +4,7 @@
 
 ___
 
-**"I learned Markdown for this— please let me pass the class!"** 
+**"I had to learn Markdown for this— please let me pass the class!"** 
 *Chava Neumann*
 
 ![SpareMe](https://github.com/user-attachments/assets/639fbfbd-6c35-4ee1-8655-e4b3a4c5a59d)
