@@ -16,18 +16,18 @@ But Café Letka isn’t flying solo. Klub Letka, the dynamic cultural terminal, 
 
 ## Designing the Visual Ticket
 
-- **Logo Design**: Our team set the course to align the visuals of Letka and Letec, ensuring a smooth connection while keeping Letka’s unique spirit intact. The inspiration? A fusion of Letka’s rustic interior, its storied exterior and a touch of Letec’s modern edge—blending history.
+- **Logo Design**: Our team set the course to align the visuals of Letka and Letec, ensuring a smooth connection while keeping Letka’s unique spirit intact. The inspiration? A fusion of Letka’s rustic interior, its storied exterior and a touch of Letec’s modern edge-blending history.
 - **Color Palette**: A mix of warm, earthy tones echoing Letka’s inviting ambiance, paired with sky blues and subtle metallics for that vintage aviation charm. More than just evoking cozy flights, these shades mirror the café’s very walls.
-- **Typography**: Elegant yet practical. The fonts are sleek, structured, and ready for takeoff, ensuring legibility while maintaining a sense of handcrafted character—just like the café itself.
+- **Typography**: Elegant yet practical. The fonts are sleek, structured, and ready for takeoff, ensuring legibility while maintaining a sense of handcrafted character-just like the café itself.
 
 ## Boarding Passes & In-Flight Service
 
-- **Menus**: Designed with a first-class aesthetic, keeping visuals clean, stylish, and easy to navigate—ensuring every order feels like an effortless boarding experience.
-- **Packaging**: Takeoff-ready bags and pack-bands, featuring Letka’s branding for a seamless, recognizable look—perfect for those who prefer their coffee to-go.
-- **Klub Letka Program**: A color-coded, vibrant, and playful design that reflects the dynamic energy of the club—each event like a different destination on an ever-expanding flight map.
-- **Signage**: The logo font transforms into pictograms, guiding guests through the café and club like an intuitive airport wayfinding system—clear, stylish, and always on course.
-- **Merchandise**: A collection of aprons, tote bags, and more, designed to carry the Letka identity beyond the café’s walls—letting customers wear their love for Letka like a pilot wears their wings.
-- **Loyalty Program**: A coffee card as your frequent flyer miles, rewarding returning passengers with every cup. The more you fly (or sip), the closer you get to your next reward!
+- **Menus**: Designed with a first-class aesthetic, keeping visuals clean, stylish, and easy to navigate-ensuring every order feels like an effortless boarding experience.
+- **Packaging**: Takeoff-ready bags and pack-bands, featuring Letka’s branding for a seamless, recognizable look-perfect for those who prefer their coffee to-go.
+- **Klub Letka Program**: A color-coded, vibrant, and playful design that reflects the dynamic energy of the club-each event like a different destination on an ever-expanding flight map.
+- **Signage**: The logo font transforms into pictograms, guiding guests through the café and club like an intuitive airport wayfinding system-clear, stylish, and always on course.
+- **Merchandise**: A collection of aprons, tote bags, and more, designed to carry the Letka identity beyond the café’s walls-letting customers wear their love for Letka like a pilot wears their wings.
+- **Loyalty Program**: A coffee card for frequent flyer miles, rewarding returning passengers with every cup. The more you fly (or sip), the closer you get to your next reward!
 
 ---
 
