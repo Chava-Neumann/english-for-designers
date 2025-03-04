@@ -6,13 +6,18 @@ But Café Letka isn’t flying solo. Klub Letka, the dynamic cultural terminal, 
 
 ## The Flight
 
-- **Mission Statement**: To provide a first-class coffee experience that blends aviation heritage with a warm, welcoming atmosphere.  
-- **Core Values**: Quality, craftsmanship, community, sustainability, great coffee and Pinterest worthy visuals.  
+- **Mission**: To provide a first-class coffee experience that blends aviation heritage with a warm, welcoming atmosphere.  
+- **Values**: Quality, craftsmanship, community, sustainability, great coffee and Pinterest worthy visuals.
 
 ## Knowing Our Passengers
 
 - **Who’s on Board?**: Who are our regulars? Young hipstergramers, professionals, digital nomads, students, and coffee enthusiasts.  
-- **In-Flight Preferences**: What keeps them on board? The perfect blend of specialty coffee, cozy and rustic ambiance, and top-tier service.  
+- **In-Flight Preferences**: What keeps them on board? The perfect blend of specialty coffee, cozy and rustic ambiance, and top-tier service.
+
+## Turbulences
+
+- **Delayed Departure**: The old logo, while cute, didn’t quite take off. Letka was known for its look, not its branding. Meanwhile, Klub Letka had a separate identity that didn’t match the café or its atmosphere. The result? A bumpy flight with no clear connection between the spaces.
+- **The Solution**: To ensure a smooth landing, we needed a branding system that united Café Letka, Klub Letka, and Letec under one cohesive flight path.
 
 ## Designing the Visual Ticket
 
