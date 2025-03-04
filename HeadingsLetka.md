@@ -38,6 +38,6 @@ But Café Letka isn’t flying solo. Klub Letka, the dynamic cultural terminal, 
 
 ### Final Approach  
 
-With this branding **flight plan**, Café Letka is ready to **soar above the competition** while offering passengers a coffee experience they’ll keep returning for. Whether it’s a quick layover or a long-haul study session, Letka ensures every visit is a **smooth landing.**  
+With this branding **flight plan**, Café Letka is ready to ensure every visit is a **smooth landing** while offering passengers a coffee experience they’ll keep returning for.
 
 **Fasten your seatbelts, Café Letka is cleared for takeoff!**  
