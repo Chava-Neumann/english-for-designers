@@ -61,7 +61,7 @@ And without realizing it, I was learning the foundations of **UX**.
 
 ---
 
-## *CLICK*
+## Connecting the pieces
 
 When I discovered design, everything made sense.
 
@@ -77,7 +77,7 @@ Just like with my brother, I had to think about:
 
 ---
 
-## Connecting the dots
+## *CLICK*
 
 Experts working with non-verbal kids agree:
 - Meet people where they are  
@@ -142,3 +142,6 @@ Growing up with my non-verbal brother taught me how to see, how to listen, and h
 **Long before I ever opened Adobe.**
 
 ---
+
+Not really managing to put it into slides...
+[RushedPresentationJ.pdf](https://github.com/user-attachments/files/19839652/StorytellingAJ.pdf)
