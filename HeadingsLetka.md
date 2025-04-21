@@ -6,24 +6,24 @@ But Café Letka isn’t flying solo. Klub Letka, the dynamic cultural terminal, 
 
 ## The Flight
 
-- **Mission**: To provide a first-class coffee experience that blends aviation heritage with a warm, welcoming atmosphere.  
-- **Values**: Quality, craftsmanship, community, sustainability, great coffee and Pinterest worthy visuals.
+Our mission is to provide a first-class coffee experience that blends aviation heritage with a warm, welcoming atmosphere. We’re committed to values such as quality, craftsmanship, community, sustainability, great coffee, and Pinterest-worthy visuals.
 
 ## Knowing Our Passengers
 
-- **Who’s on Board?**: Who are our regulars? Young hipstergramers, professionals, digital nomads, students, and coffee enthusiasts.  
-- **In-Flight Preferences**: What keeps them on board? The perfect blend of specialty coffee, cozy and rustic ambiance, and top-tier service.
+Our regulars—or rather, our loyal passengers—include young hipstergrammers, professionals, digital nomads, students, and coffee enthusiasts. What keeps them on board is the perfect blend of specialty coffee, a cozy and rustic ambiance, and top-tier service that makes them feel right at home.
 
 ## Turbulences
 
-- **Delayed Departure**: The old logo, while cute, didn’t quite take off. Letka was known for its look, not its branding. Meanwhile, Klub Letka had a separate identity that didn’t match the café or its atmosphere. The result? A bumpy flight with no clear connection between the spaces.
-- **The Solution**: To ensure a smooth landing, we needed a branding system that united Café Letka, Klub Letka, and Letec under one cohesive flight path.
+Our previous branding faced some turbulence. The old logo, while cute, didn’t quite take off. Café Letka was more known for its aesthetic than for a unified brand identity. Meanwhile, Klub Letka maintained a separate look and feel that didn’t match the café or its atmosphere. This disconnect led to a bumpy flight, with no clear connection between the spaces.
+To ensure a smooth landing, we needed a cohesive branding system that would unify Café Letka, Klub Letka, and Letec under one harmonious and recognizable flight path.
 
 ## Designing the Visual Ticket
 
-- **Logo Design**: Our team set the course to align the visuals of Letka and Letec, ensuring a smooth connection while keeping Letka’s unique spirit intact. The inspiration? A fusion of Letka’s rustic interior, its storied exterior and a touch of Letec’s modern edge-blending history.
-- **Color Palette**: A mix of warm, earthy tones echoing Letka’s inviting ambiance, paired with sky blues and subtle metallics for that vintage aviation charm. More than just evoking cozy flights, these shades mirror the café’s very walls.
-- **Typography**: Elegant yet practical. The fonts are sleek, structured, and ready for takeoff, ensuring legibility while maintaining a sense of handcrafted character-just like the café itself.
+Letka’s new visual identity connects all locations while keeping their unique vibes. The logo redesign blends Letka’s rustic interior, its historic exterior, and a touch of Letec’s modern look, blending old-school warmth with a fresh look.
+
+Warm earth tones, sky blues, and metallic accents reflect Letka’s inviting ambiance and the golden age of aviation. These hues not only evoke the idea of cozy flights, but also mirror the café’s very walls and textures.
+
+Typography plays an equally vital role in our journey. The selected fonts are sleek and structured, yet carry a handcrafted spirit. They strike the perfect balance between elegance and practicality, making every word feel both intentional and approachable—just like Letka itself.
 
 ## Boarding Passes & In-Flight Service
 
