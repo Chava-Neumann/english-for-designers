@@ -12,31 +12,68 @@ But Café Letka isn’t flying solo. Klub Letka, the dynamic cultural terminal, 
 
 Our mission is to provide a first-class coffee experience that blends aviation heritage with a warm, welcoming atmosphere. We’re committed to values such as quality, craftsmanship, community, sustainability, great coffee, and Pinterest-worthy visuals.
 
+<img src="https://github.com/user-attachments/assets/6834f414-5dbb-4b6f-9684-9574ff59bb3c" alt="Interior" width="1200" />
+
+<sub>**Atmosphere**</sub>
+
+<img src="https://github.com/user-attachments/assets/de06282c-a82e-420a-a83c-75b37f669d95" alt="Matcha" width="1200" />
+
+<sub>**Pinterest Worthy Matcha**</sub>
+
 ## Knowing Our Passengers
 
 Our regulars—or rather, our loyal passengers—include young hipstergrammers, professionals, digital nomads, students, and coffee enthusiasts. What keeps them on board is the perfect blend of specialty coffee, a cozy and rustic ambiance, and top-tier service that makes them feel right at home.
+
+<img src="https://github.com/user-attachments/assets/35f55432-3c10-46b0-a015-a613a991c193" alt="People" width="1200" />
+
+<sub>**The Daily Travelers**</sub>
 
 ## Turbulences
 
 Our previous branding faced some turbulence. The old logo, while cute, didn’t quite take off. Café Letka was more known for its aesthetic than for a unified brand identity. Meanwhile, Klub Letka maintained a separate look and feel that didn’t match the café or its atmosphere. This disconnect led to a bumpy flight, with no clear connection between the spaces.
 To ensure a smooth landing, we needed a cohesive branding system that would unify Café Letka, Klub Letka, and Letec under one harmonious and recognizable flight path.
 
+<img src="https://github.com/user-attachments/assets/05afa0fc-88f5-4506-8e99-d2512e8abc2f" alt="Logo" width="1200" />
+
+<sub>**Logo Design**</sub>
+
+<img src="https://github.com/user-attachments/assets/40a9f34d-fdb5-469c-8baa-326f8b4cf72a" alt="Logo BW" width="1200" />
+
+<sub>**Logo B&W**</sub>
+
+<img src="https://github.com/user-attachments/assets/4868dc59-33bd-4911-b034-47eb2c77a94a" alt="Logos" width="1200" />
+
+<sub>**Logo Changes and Comparisons**</sub>
+
+<img src="https://github.com/user-attachments/assets/afbe2af2-ab8d-4718-8579-9f2888ec5aa3" alt="Doors" width="1200" />
+
+<sub>**New Gateway**</sub>
+
 ## Designing the Visual Ticket
 
-Letka’s new visual identity connects all locations while keeping their unique vibes. The logo redesign blends Letka’s rustic interior, its historic exterior, and a touch of Letec’s modern look, blending old-school warmth with a fresh look.
+Letka’s new visual identity connects all locations while keeping their unique vibes. The logo redesign blends Letka’s rustic interior, its historic exterior, and a touch of Letec’s modern look, blending old-school warmth with a fresh look. Warm earth tones, sky blues, and metallic accents reflect Letka’s inviting ambiance and the golden age of aviation. These hues not only evoke the idea of cozy flights, but also mirror the café’s very walls and textures.
 
-Warm earth tones, sky blues, and metallic accents reflect Letka’s inviting ambiance and the golden age of aviation. These hues not only evoke the idea of cozy flights, but also mirror the café’s very walls and textures.
+<img src="https://github.com/user-attachments/assets/6b66bbaa-42bb-4128-981b-d546aeb301fd" alt="Color" width="1200" />
+
+<sub>**Color x Wall Comparison**</sub>
 
 Typography plays an equally vital role in our journey. The selected fonts are sleek and structured, yet carry a handcrafted spirit. They strike the perfect balance between elegance and practicality, making every word feel both intentional and approachable—just like Letka itself.
+
+<img src="https://github.com/user-attachments/assets/25bb6305-a209-45d8-b0f4-d13ca09c018f" alt="Typography" width="1200" />
+
+<sub>**Bitter Raleway**</sub>
 
 ## Boarding Passes & In-Flight Service
 
 Our menus have been redesigned with a first-class aesthetic in mind. Clean, stylish, and easy to navigate, they make every order feel like a seamless boarding experience.
 
 <img src="https://github.com/user-attachments/assets/3082ab6d-cd1d-4ae4-a621-302872f7ca84" alt="Menuscript" width="1200" />
-<img src="https://github.com/user-attachments/assets/4d87e6f0-2805-49d1-9d51-a3f510d4fd22" alt="Menuref" width="1200" />
 
 <sub>**Menu**</sub>
+
+<img src="https://github.com/user-attachments/assets/4d87e6f0-2805-49d1-9d51-a3f510d4fd22" alt="Menuref" width="1200" />
+
+<sub>**Menu Mock-up**</sub>
 
 We also introduced takeoff-ready packaging, from coffee bags to pack-bands, all carrying Letka’s refreshed branding. This ensures a consistent and recognizable look for customers who prefer their coffee to-go.
 
