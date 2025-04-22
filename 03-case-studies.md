@@ -106,6 +106,8 @@ Merchandise also plays a role in taking the Letka brand beyond the café’s wal
 
 ### Off Character 
 
+
+
 ---
 
 ### Final Approach  
