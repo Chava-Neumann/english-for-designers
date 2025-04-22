@@ -104,6 +104,10 @@ Merchandise also plays a role in taking the Letka brand beyond the café’s wal
 
 ---
 
+### Off Character 
+
+---
+
 ### Final Approach  
 
 With this branding **flight plan**, Café Letka is ready to ensure every visit is a **smooth landing** while offering passengers a coffee experience they’ll keep returning for.
