@@ -1,5 +1,6 @@
 # Café Letka: Branding Strategy – Cleared for Takeoff  
 
+Hello, this is the brand strategy captain speaking. 
 Welcome aboard **Café Letka Airlines**, where every sip is a smooth flight and every visit is a new destination! To ensure a seamless journey for our passengers, we’ve mapped out a strategic flight plan to elevate Letka’s brand identity and keep us soaring above the competition.
 
 But Café Letka isn’t flying solo. Klub Letka, the dynamic cultural terminal, keeps the energy high with live performances and events, while Letec, the trusted co-pilot, serves another spot for coffee lovers to fuel up. Together, these destinations create a connected airspace where coffee, culture, and community take flight.
