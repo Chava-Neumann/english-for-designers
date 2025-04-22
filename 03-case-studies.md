@@ -30,7 +30,13 @@ Our regulars—or rather, our loyal passengers—include young hipstergrammers, 
 
 ## Turbulences
 
-Our previous branding faced some turbulence. The old logo, while cute, didn’t quite take off. Café Letka was more known for its aesthetic than for a unified brand identity. Meanwhile, Klub Letka maintained a separate look and feel that didn’t match the café or its atmosphere. This disconnect led to a bumpy flight, with no clear connection between the spaces.
+Our previous branding faced some turbulence. The old logo, while cute, didn’t quite take off. Café Letka was more known for its aesthetic than for a unified brand identity. Meanwhile, Klub Letka maintained a separate look and feel that didn’t match the café or its atmosphere. 
+
+<img src="https://github.com/user-attachments/assets/4868dc59-33bd-4911-b034-47eb2c77a94a" alt="Logos" width="1200" />
+
+<sub>**Logo Changes and Comparisons**</sub>
+
+This disconnect led to a bumpy flight, with no clear connection between the spaces.
 To ensure a smooth landing, we needed a cohesive branding system that would unify Café Letka, Klub Letka, and Letec under one harmonious and recognizable flight path.
 
 <img src="https://github.com/user-attachments/assets/05afa0fc-88f5-4506-8e99-d2512e8abc2f" alt="Logo" width="1200" />
@@ -40,10 +46,6 @@ To ensure a smooth landing, we needed a cohesive branding system that would unif
 <img src="https://github.com/user-attachments/assets/40a9f34d-fdb5-469c-8baa-326f8b4cf72a" alt="Logo BW" width="1200" />
 
 <sub>**Logo B&W**</sub>
-
-<img src="https://github.com/user-attachments/assets/4868dc59-33bd-4911-b034-47eb2c77a94a" alt="Logos" width="1200" />
-
-<sub>**Logo Changes and Comparisons**</sub>
 
 <img src="https://github.com/user-attachments/assets/afbe2af2-ab8d-4718-8579-9f2888ec5aa3" alt="Doors" width="1200" />
 
