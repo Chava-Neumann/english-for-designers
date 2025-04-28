@@ -93,20 +93,6 @@ And he was the most honest user I’ve ever had.
 
 ---
 
-## Speaking of...
-Today, I design not just for **clarity**, but for **inclusion**.
-
-- Visual systems  
-- Tools for communities  
-- Characters who speak without words
-
-Because of him:
-- I ask better questions  
-- I design better systems  
-- I **listen**
-
----
-
 ## Listening, not just hearing
 
 Growing up with my brother showed me:  
