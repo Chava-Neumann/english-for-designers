@@ -1,3 +1,7 @@
+[STORYTELLING - Before he spoke.pdf](https://github.com/user-attachments/files/19941012/before.he.spoke.pdf)
+
+---
+
 # Before he spoke
 **Design is translation.**  
 From silence to meaning. From emotion to expression. From difference to connection.
@@ -128,6 +132,3 @@ Growing up with my non-verbal brother taught me how to see, how to listen, and h
 **Long before I ever opened Adobe.**
 
 ---
-
-Not really managing to put it into slides...
-[RushedPresentationJ.pdf](https://github.com/user-attachments/files/19839652/StorytellingAJ.pdf)
